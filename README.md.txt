@@ -1,6 +1,6 @@
 run the project please follow below steps:
 
-step 1 - Change the server name in your connection string in appsettings.json file
+step 1 - Change the server name in your connection string in appsettings.json file and use windows authentication in sql server. 
 
 step 2 - run the command for update-database in package manager console.
 
